@@ -1,14 +1,4 @@
-     .d88888b.  8888888b.  d8b
-    d88P" "Y88b 888   Y88b Y8P
-    888     888 888    888
-    888     888 888   d88P 888  .d88b.  888  888 .d8888b
-    888     888 8888888P"  888 d88""88b 888  888 88K
-    888 Y8b 888 888 T88b   888 888  888 888  888 "Y8888b.
-    Y88b.Y8b88P 888  T88b  888 Y88..88P Y88b 888      X88
-     "Y888888"  888   T88b 888  "Y88P"   "Y88888  88888P'
-           Y8b
 
-[QRious](https://github.com/neocotic/qrious) is a pure JavaScript library for generating QR codes using HTML5 canvas.
 
 [![Chat](https://img.shields.io/gitter/room/neocotic/qrious.svg?style=flat-square)](https://gitter.im/neocotic/qrious)
 [![Demo](https://img.shields.io/badge/demo-live-brightgreen.svg?style=flat-square)](https://codepen.io/neocotic/pen/YQzmBm)
@@ -172,30 +162,3 @@ qr.toDataURL('image/jpeg');
 //=> "data:image/jpeg;base64,/9j/...xqAqIqgKFAAAAAq3RRQAUUUUAf/Z"
 ```
 
-## Migrating from older versions
-
-If you've been using an older major version and would like details on what's changed and information on how to migrate
-to the latest major release below:
-
-https://github.com/neocotic/qrious/wiki/Migrating-from-older-versions
-
-## Bugs
-
-If you have any problems with QRious or would like to see changes currently in development you can do so
-[here](https://github.com/neocotic/nqrious/issues). Core features and issues are maintained separately
-[here](https://github.com/neocotic/qrious-core/issues).
-
-## Contributors
-
-If you want to contribute, you're a legend! Information on how you can do so can be found in
-[CONTRIBUTING.md](https://github.com/neocotic/qrious/blob/master/CONTRIBUTING.md). We want your suggestions and pull
-requests!
-
-A list of QRious contributors can be found in [AUTHORS.md](https://github.com/neocotic/qrious/blob/master/AUTHORS.md).
-
-## License
-
-Copyright © 2017 Alasdair Mercer  
-Copyright © 2010 Tom Zerucha
-
-See [LICENSE.md](https://github.com/neocotic/qrious/blob/master/LICENSE.md) for more information on our GPLv3 license.

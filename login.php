@@ -10,7 +10,7 @@ session_start(); ?>
     <link rel="SHORTCUT ICON" href="images/fibble.png" type="image/x-icon" />
     <link rel="ICON" href="images/fibble.png" type="image/ico" />
 
-    <title>Fibble - Login</title>
+    <title>Supply Chain DAPP</title>
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
@@ -48,7 +48,7 @@ session_start(); ?>
         if( $submission==10 ){
   ?>
 
-  <body class="violetgradient">
+  <body class="bg">
   <center>
       <div class="customalert">
           <div class="alertcontent">
@@ -189,4 +189,3 @@ session_start(); ?>
     </script>
   </body>
 </html>
-<!-- Developed by Anubhav Dutta : https://www.linkedin.com/in/iamanubhavdutta/ -->

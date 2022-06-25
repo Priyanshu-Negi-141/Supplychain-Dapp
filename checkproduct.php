@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Fibble - Supply Chain DAPP</title>
+    <title>Supply Chain DAPP</title>
     <link rel="SHORTCUT ICON" href="images/fibble.png" type="image/x-icon" />
     <link rel="ICON" href="images/fibble.png" type="image/ico" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
@@ -21,7 +21,7 @@
   <?php
   if(isset($_SESSION['role'])){
   ?>
-  <body class="violetgradient">
+  <body class="bg">
     <?php
     include "navbar.php"
     ?>
@@ -149,4 +149,3 @@
     </script>
   </body>
 </html>
-<!-- Developed by Anubhav Dutta : https://www.linkedin.com/in/iamanubhavdutta/ -->

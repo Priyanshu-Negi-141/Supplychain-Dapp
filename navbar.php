@@ -1,11 +1,11 @@
 <nav class="navbar navbar-expand-lg navbar-light white" style="position: fixed; width: 100%;z-index: 20;">
 <a class="navbar-brand" href="checkproduct.php">
-<img src="images/fibble.png" style="width: 30px;"> &nbsp
+<img src="images/logo.jpg" style="width: 50px;"> &nbsp
 </a>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav"
     aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon" style="color: #4287f5;"></span>
+    <span class="navbar-toggler-icon" style="color: #0bdb20;"></span>
   </button>
 
   <div class="collapse navbar-collapse" id="basicExampleNav">
@@ -46,5 +46,3 @@
 
   </div>
 </nav>
-
-<!-- Developed by Anubhav Dutta : https://www.linkedin.com/in/iamanubhavdutta/ -->

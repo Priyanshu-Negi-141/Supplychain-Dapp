@@ -11,7 +11,7 @@ $color="navbar-light orange darken-4";
     <link rel="SHORTCUT ICON" href="images/fibble.png" type="image/x-icon" />
     <link rel="ICON" href="images/fibble.png" type="image/ico" />
 
-    <title>Fibble - Add New Products</title>
+    <title>Supply Chain DAPP</title>
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
@@ -24,7 +24,7 @@ $color="navbar-light orange darken-4";
   <?php
     if( $_SESSION['role']==0 ){
   ?>
-  <body class="violetgradient">
+  <body class="bg">
     <?php include 'navbar.php'; ?>
     <center>
         <div class="customalert">

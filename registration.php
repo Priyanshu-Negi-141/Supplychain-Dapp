@@ -10,7 +10,7 @@
     <link rel="SHORTCUT ICON" href="images/fibble.png" type="image/x-icon" />
     <link rel="ICON" href="images/fibble.png" type="image/ico" />
 
-    <title>Fibble - Create New Account</title>
+    <title>Supply Chain DAPP</title>
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
@@ -20,7 +20,7 @@
     <link href="css/style.css" rel="stylesheet">
 
   </head>
-  <body class="violetgradient">
+  <body class="bg">
   <?php
   $errormsg="";
   $submission=0;
